@@ -1,4 +1,4 @@
 ---
-label: portfolio
+label: Portfolio
 icon: trash
 ---
