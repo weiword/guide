@@ -5,7 +5,7 @@ url:
 branding:
   title: 0xWalt 
   label: Docs
-  logo: 
+  logo: assets/Walt_v0.png
 
 edit:
   repo: https://github.com/0xWalt/docs/
