@@ -1,4 +1,4 @@
 ---
-label:  Welcome
+label:  Home
 icon: home
 ---
