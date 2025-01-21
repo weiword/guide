@@ -8,4 +8,6 @@ order: 99
 Content 1
 ==- Ethereum
 Content 2
+==- Solana
+Content 3
 ==-
