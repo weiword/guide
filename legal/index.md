@@ -1,5 +1,5 @@
 ---
 label: Legal
 icon: law
-order: 4
+order: 97
 ---
