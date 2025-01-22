@@ -6,7 +6,7 @@ order: 99
 
 ==- (₿) Bitcoin
 Content 1
-==- (⟠) Ethereum
+==- (Ξ) Ethereum
 Content 2
 ==- (◎) Solana
 Content 3
