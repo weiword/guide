@@ -3,7 +3,10 @@ label: Portfolio
 icon: trash
 order: 99
 ---
+
+:::
 ▓▓░░░░░░░░░░░░░░░░░░ (10%)
+:::
 
 ==- (₿) Bitcoin
 Content 1
