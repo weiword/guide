@@ -1,4 +1,0 @@
----
-label:  Tools
-icon: tools
----
