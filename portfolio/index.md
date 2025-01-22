@@ -1,5 +1,5 @@
 ---
-label: Portfolio
+label: 
 icon: trash
 order: 99
 meta:
