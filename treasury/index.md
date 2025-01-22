@@ -1,9 +1,7 @@
 ---
-label: 
+label: Treasury
 icon: trash
 order: 99
-meta:
-  title: ""
 ---
 !!!warning Warning
 The information provided is for informational purposes only and does not constitute financial or legal advice.
