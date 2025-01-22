@@ -1,6 +1,6 @@
 ---
 label: Treasury
-icon: trash
+icon: fiscal-host
 order: 99
 ---
 !!!warning Warning
