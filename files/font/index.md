@@ -7,8 +7,7 @@ order: 99
 <style>
     .font {
       font-family: 'Courier New', monospace;
-      font-size: 1.5em;
-      margin-top: 20px;
+      font-size: 1em;
       white-space: pre-wrap;
     }
 </style>
