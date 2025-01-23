@@ -8,7 +8,13 @@ The information provided is for informational purposes only and does not constit
 !!!
 :::
 <pre>
-▐▓▓░░░░░░░░░░░░░░░░░▌ (10%)
+₿:▐▓▓░░░░░░░░░░░░░░░░░▌ (10%)
+</pre>
+<pre>
+Ξ:▐▓▓░░░░░░░░░░░░░░░░░▌ (10%)
+</pre>
+<pre>
+◎:▐▓▓░░░░░░░░░░░░░░░░░▌ (10%)
 </pre>
 :::
 
