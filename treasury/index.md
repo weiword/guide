@@ -6,22 +6,11 @@ order: 99
 !!!warning Warning
 The information provided is for informational purposes only and does not constitute financial or legal advice.
 !!!
-:::
-<pre>
- BTC:▐▓▓░░░░░░░░░░░░░░░░░▌ (10%)
-</pre>
-<pre>
-ETH:▐▓▓░░░░░░░░░░░░░░░░░▌ (10%)
-</pre>
-<pre>
-SOL:▐▓▓░░░░░░░░░░░░░░░░░▌ (10%)
-</pre>
-:::
 
-==- <pre> Bitcoin (BTC):▐▓▓░░░░░░░░░░░░░░░░░▌ (10%) </pre>
+==- <pre>Bitcoin  (BTC):▐▓▓░░░░░░░░░░░░░░░░░▌ (10%) </pre>
 Content 1
-==- Ethereum (ETH)
+==- <pre>Ethereum (ETH):▐▓▓░░░░░░░░░░░░░░░░░▌ (10%) </pre>
 Content 2
-==- Solana (SOL)
+==- <pre>Solana   (SOL):▐▓▓░░░░░░░░░░░░░░░░░▌ (10%) </pre>
 Content 3
 ==-
