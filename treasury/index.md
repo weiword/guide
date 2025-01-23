@@ -18,7 +18,7 @@ SOL:▐▓▓░░░░░░░░░░░░░░░░░▌ (10%)
 </pre>
 :::
 
-==- <pre> Bitcoin (BTC) BTC:▐▓▓░░░░░░░░░░░░░░░░░▌ (10%) </pre>
+==- <pre> Bitcoin (BTC):▐▓▓░░░░░░░░░░░░░░░░░▌ (10%) </pre>
 Content 1
 ==- Ethereum (ETH)
 Content 2
