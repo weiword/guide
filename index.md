@@ -1,4 +1,4 @@
 ---
-label:  Home
-icon: home
+label:  Blog
+icon: bookmark
 ---
