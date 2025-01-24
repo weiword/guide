@@ -28,7 +28,6 @@ Content 2
 Content 3
 ==-
 
-:::
 <script>
     // Function to create the bar string based on percentage and container width
     function createBar(percentage, containerWidth) {
@@ -74,4 +73,3 @@ Content 3
       updateBars([30, 50, 70, 90]); // You can adjust these percentages as needed
     });
   </script>
-:::
