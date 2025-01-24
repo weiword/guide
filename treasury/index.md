@@ -9,23 +9,14 @@ The information provided is for informational purposes only and does not constit
 
 
   <style>
-    /* Styling for each bar */
     .bar {
       font-family: monospace;
       font-size: 18px;
       width: 100%;
       box-sizing: border-box;
-      white-space: nowrap;  /* Prevent text from wrapping */
-      overflow: hidden;     /* Hide any overflow */
-      word-break: break-all; /* Break the bar into new lines if necessary */
-    }
-
-    pre {
-      font-family: monospace; /* Ensure text is monospace inside <pre> */
-      font-size: 18px;
-      margin: 0;
-      padding: 0;
-      white-space: pre-wrap; /* Ensure wrapping if necessary */
+      white-space: nowrap;  
+      overflow: hidden;  
+      word-break: break-all;
     }
   </style>
 
