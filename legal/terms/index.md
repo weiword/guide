@@ -8,18 +8,22 @@ order: 99
 By using this website, you agree to follow the rules outlined in these Terms of Use. Please review carefully. 
 !!!
 
-=== DISCLAIMER
+=== I. DISCLAIMER
 Use of the research of Weiword is at your own risk. To the best of Weiword's ability and belief, all information contained herein is accurate, reliable, and provided “as is.” weiword disclaims making any express or implied warranties with respect to the fitness of the information contained herein for any particular usage, its merchantability, and/or its application or purpose.
 !!!light
 weiword provides information "as is," meaning we don’t guarantee that it’s completely accurate or suitable for any specific purpose.
 !!!
-=== NO OFFER OR SOLICITATION
+=== II. NO OFFER OR SOLICITATION
 Nothing on this website shall be deemed an offer or solicitation to purchase or sell services. weiword uses this website solely to discuss its opinions and investment ideas. weiword has no intention of soliciting prospective clients for any products or services. 
 !!!light
 The website isn’t trying to sell anything or ask you to buy services. It's just for sharing opinions, projects, and ideas about investments.
 !!!
-=== weiword isn’t responsible for any mistakes in the information or for any losses you might experience from using it.
-
+=== III. LIMITATION OF LIABILITY
+In no event shall weiword be responsible or liable for the correctness of any such material or for any damage or lost opportunities resulting from use of this data. Prior to making any investment you should consult with professional financial, legal, and tax advisors to assist in due diligence as may be appropriate and determining the appropriateness of the risk associated with a particular investment.
+services. 
+!!!light
+weiword isn’t responsible for any mistakes in the information or for any losses you might experience from using it.
+!!!
 === Before making any investments, you should speak with a financial advisor, lawyer, or tax expert to make sure you're making the right decisions.
 
 === weiword might already have investments in the stocks or securities they talk about on the site, which could affect their views.
