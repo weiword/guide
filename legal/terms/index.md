@@ -29,12 +29,23 @@ Prior to making any investment you should consult with professional financial, l
 !!!light
 Before making any investments, you should speak with a financial advisor, lawyer, or tax expert to make sure you're making the right decisions.
 !!!
-=== weiword might already have investments in the stocks or securities they talk about on the site, which could affect their views.
+=== V. POTENTIAL COMFLICTS OF INJURY
+You should assume that as of the publication date of any report, post or communication referencing any publicly traded security, Weiword (possibly along with or through our members, partners, affiliates, employees, clients, investors, industry contacts and/or consultants) may have a position in the stock, bonds, derivatives or other securities covered herein, and therefore stands to realize significant gains in the event that the price of the securities move. Following publication of any report or letter, weiword intends to continue transacting in the securities covered therein and may be long, short, or neutral at any time thereafter regardless of weiword's initial position or views. Hindenburg’s investments are subject to its risk management guidance, which may result in the derisking of some or all of its positions at any time following publication of any report or letter depending on security-specific, market or other relevant conditions. 
+!!!light
+weiword might already have investments in the stocks or securities they talk about on the site, which could affect their views.
+!!!
+=== a
 
-=== If any part of these terms is found to be invalid or unenforceable, the rest of the terms will still apply.
+If any part of these terms is found to be invalid or unenforceable, the rest of the terms will still apply.
 
-=== You can’t use the website for anything illegal or against the rules. You need to follow all laws that apply.
+=== b
 
-=== All the content on the website, like text, images, and logos, belongs to weiword unless stated otherwise. 
+You can’t use the website for anything illegal or against the rules. You need to follow all laws that apply.
 
-=== If there are links to other websites, they’re just for your convenience. weiword isn’t connected to or responsible for what’s on those sites.
+=== c
+
+All the content on the website, like text, images, and logos, belongs to weiword unless stated otherwise. 
+
+=== d
+
+If there are links to other websites, they’re just for your convenience. weiword isn’t connected to or responsible for what’s on those sites.
