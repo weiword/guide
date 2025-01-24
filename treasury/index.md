@@ -20,7 +20,7 @@ The information provided is for informational purposes only and does not constit
     }
   </style>
 
-==- <pre id="btc">Bitcoin: [btcUSD] USD </pre> <pre id="bar-1" class="bar"></pre>
+==- <pre id="btc">Bitcoin: [btcUSD] USD </pre> <pre id="bar-1" class="bar">.......</pre>
 Content 1
 ==- <pre id="eth">Ethereum: [ethUSD] USD </pre> <pre id="bar-2" class="bar"></pre>
 Content 2
