@@ -55,3 +55,6 @@ Any links from our site are provided for viewer convenience.  Hindenburg is not 
 If there are links to other websites, they’re just for your convenience. weiword isn’t connected to or responsible for what’s on those sites.
 !!!
 ===
+!!!danger 
+If you don't agree with these terms, please don't use this website.
+!!!
