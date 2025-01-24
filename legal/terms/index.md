@@ -29,23 +29,28 @@ Prior to making any investment you should consult with professional financial, l
 !!!light
 Before making any investments, you should speak with a financial advisor, lawyer, or tax expert to make sure you're making the right decisions.
 !!!
-=== V. POTENTIAL COMFLICTS OF INJURY
+=== V. POTENTIAL CONFLICTS OF INJURY
 You should assume that as of the publication date of any report, post or communication referencing any publicly traded security, Weiword (possibly along with or through our members, partners, affiliates, employees, clients, investors, industry contacts and/or consultants) may have a position in the stock, bonds, derivatives or other securities covered herein, and therefore stands to realize significant gains in the event that the price of the securities move. Following publication of any report or letter, weiword intends to continue transacting in the securities covered therein and may be long, short, or neutral at any time thereafter regardless of weiword's initial position or views. weiword's investments are subject to its risk management guidance, which may result in the derisking of some or all of its positions at any time following publication of any report or letter depending on security-specific, market or other relevant conditions. 
 !!!light
 weiword might already have investments in the stocks or securities they talk about on the site, which could affect their views.
 !!!
-=== a
-
+=== VI. VALIDITY OF PROVISIONS
+If any provision in these Terms of Use is held to be invalid or unenforceable, then the remaining provisions shall continue in full force and effect.
+!!!light
 If any part of these terms is found to be invalid or unenforceable, the rest of the terms will still apply.
-
-=== b
-
+!!!
+=== VII. PROHIBITED USES
+Users of the website (“Users”) shall not use it at any time for any purpose that is unlawful or prohibited and, at all relevant times, shall comply with any applicable local, state, national or international laws or regulations.
+!!!light
 You can’t use the website for anything illegal or against the rules. You need to follow all laws that apply.
-
-=== c
-
+!!!
+=== VIII. INTELLECTUAL PROPERTY
+weiword and the terms, logos and marks included on this website that identify weiword's services and products are proprietary materials. Copyright in the pages and in the screens of the website, and in the information and material therein, is proprietary material owned by weiword unless otherwise indicated. Unless otherwise noted, all information provided on this website is provided by weiword and is subject to copyright and trademark laws.  Logos and marks contained in links to third party websites belong to their respective owners.
+!!!light
 All the content on the website, like text, images, and logos, belongs to weiword unless stated otherwise. 
-
-=== d
-
+!!!
+=== IX. THIRD PARTY LINKS
+Any links from our site are provided for viewer convenience.  Hindenburg is not associated or affiliated with any linked sites.  Independent providers have prepared all information accessible through these links.
+!!!light
 If there are links to other websites, they’re just for your convenience. weiword isn’t connected to or responsible for what’s on those sites.
+!!!
