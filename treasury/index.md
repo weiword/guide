@@ -7,11 +7,33 @@ order: 99
 The information provided is for informational purposes only and does not constitute financial or legal advice.
 !!!
 
-==- <pre id="btc">Bitcoin: [btcUSD] USD </pre> <pre id="bar-1"></pre>
+
+  <style>
+    /* Styling for each bar */
+    .bar {
+      font-family: monospace;
+      font-size: 18px;
+      width: 100%;
+      box-sizing: border-box;
+      white-space: nowrap;  /* Prevent text from wrapping */
+      overflow: hidden;     /* Hide any overflow */
+      word-break: break-all; /* Break the bar into new lines if necessary */
+    }
+
+    pre {
+      font-family: monospace; /* Ensure text is monospace inside <pre> */
+      font-size: 18px;
+      margin: 0;
+      padding: 0;
+      white-space: pre-wrap; /* Ensure wrapping if necessary */
+    }
+  </style>
+
+==- <pre id="btc">Bitcoin: [btcUSD] USD </pre> <pre id="bar-1" class="bar"></pre>
 Content 1
-==- <pre id="eth">Ethereum: [ethUSD] USD </pre> <pre id="bar-2"></pre>
+==- <pre id="eth">Ethereum: [ethUSD] USD </pre> <pre id="bar-2" class="bar"></pre>
 Content 2
-==- <pre id="sol">Solana: [solUSD] USD </pre> <pre id="bar-3"></pre>
+==- <pre id="sol">Solana: [solUSD] USD </pre> <pre id="bar-3" class="bar"></pre>
 Content 3
 ==-
 
