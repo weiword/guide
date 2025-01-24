@@ -1,0 +1,4 @@
+---
+label:  Privacy
+icon: square
+---
