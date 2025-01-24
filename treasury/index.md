@@ -7,7 +7,7 @@ order: 99
 The information provided is for informational purposes only and does not constitute financial or legal advice.
 !!!
 
-==- <pre>Bitcoin: 106,500 USD </pre> <pre>▓▓░░░░░░░░░░░░░░░░░ (10%) </pre>
+==- <pre id="btc">Bitcoin: [btcUSD] USD </pre> <pre id="btcBAR">▓▓░░░░░░░░░░░░░░░░░ (10%) </pre>
 Content 1
 ==- <pre>ETH:▐▓▓░░░░░░░░░░░░░░░░░▌ (10%) </pre>
 Content 2
