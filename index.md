@@ -1,4 +1,4 @@
 ---
-label:  Blog
+label:  Articles
 icon: bookmark
 ---
