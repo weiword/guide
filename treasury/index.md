@@ -7,69 +7,60 @@ order: 99
 The information provided is for informational purposes only and does not constitute financial or legal advice.
 !!!
 
+<style>
+  .bar {
+    font-family: monospace;
+    font-size: 18px;
+    width: 100%;
+    box-sizing: border-box;
+    white-space: nowrap;  
+    overflow: hidden;  
+    word-break: break-all;
+  }
+</style>
 
-  <style>
-    .bar {
-      font-family: monospace;
-      font-size: 18px;
-      width: 100%;
-      box-sizing: border-box;
-      white-space: nowrap;  
-      overflow: hidden;  
-      word-break: break-all;
-    }
-  </style>
-
-==- <pre id="btc">Bitcoin: [btcUSD] USD </pre> <pre id="bar-1" class="bar">.......</pre>
+==- <div id="btc-container"><pre id="btc">Bitcoin: [btcUSD] USD</pre><pre id="bar-1" class="bar">Loading...</pre></div>
 Content 1
-==- <pre id="eth">Ethereum: [ethUSD] USD </pre> <pre id="bar-2" class="bar"></pre>
+==- <div id="eth-container"><pre id="eth">Ethereum: [ethUSD] USD</pre><pre id="bar-2" class="bar">Loading...</pre></div>
 Content 2
-==- <pre id="sol">Solana: [solUSD] USD </pre> <pre id="bar-3" class="bar"></pre>
+==- <div id="sol-container"><pre id="sol">Solana: [solUSD] USD</pre><pre id="bar-3" class="bar">Loading...</pre></div>
 Content 3
 ==-
 
+
+
+
 <script>
-    // Function to create the bar string based on percentage and container width
-    function createBar(percentage, containerWidth) {
-      // Ensure percentage is between 0 and 100
-      const clampedPercentage = Math.max(0, Math.min(100, percentage));
+  // Function to create the bar string based on percentage and container width
+  function createBar(percentage, containerWidth) {
+    const clampedPercentage = Math.max(0, Math.min(100, percentage));
+    const blockWidth = 10; // width of each block in pixels (adjust this value as needed)
+    const totalBlocks = Math.floor(containerWidth / blockWidth); // total number of blocks that fit within the width
+    const filledBlocks = Math.floor((clampedPercentage / 100) * totalBlocks);
+    const emptyBlocks = totalBlocks - filledBlocks;
+    const bar = '▓'.repeat(filledBlocks) + '░'.repeat(emptyBlocks);
+    return bar;
+  }
 
-      // Calculate the number of blocks that fit in the available width
-      const blockWidth = 10; // width of each block in pixels (adjust this value as needed)
-      const totalBlocks = Math.floor(containerWidth / blockWidth); // total number of blocks that fit within the width
-
-      // Calculate the number of "▓" (filled) and "░" (empty) blocks
-      const filledBlocks = Math.floor((clampedPercentage / 100) * totalBlocks);
-      const emptyBlocks = totalBlocks - filledBlocks;
-
-      // Create the bar string using the blocks
-      const bar = '▓'.repeat(filledBlocks) + '░'.repeat(emptyBlocks);
-
-      return bar;
-    }
-
-    // Function to update the bars with different percentages
-    function updateBars(percentages) {
-      // Loop through the percentages and update each bar
-      percentages.forEach((percentage, index) => {
-        const barId = `bar-${index + 1}`; // ID format: bar-1, bar-2, etc.
-        const bar = document.getElementById(barId);
-
-        if (bar) {
-          // Get the container width for each bar
-          const containerWidth = bar.offsetWidth;
-          
-          // Update the bar's text content with the generated bar
-          bar.textContent = createBar(percentage, containerWidth);
-        }
-      });
-    }
-
-    // Example usage: Update bars with different percentages
-    updateBars([30, 50, 70, 90]); // Array of different percentages for each bar
-
-    // Optional: Recalculate and update bars when the window is resized
-    window.addEventListener('resize', () => {
-      updateBars([30, 50, 70, 90]); // You can adjust these percentages as needed
+  // Function to update the bars with different percentages
+  function updateBars(percentages) {
+    percentages.forEach((percentage, index) => {
+      const barId = `bar-${index + 1}`; // ID format: bar-1, bar-2, etc.
+      const bar = document.getElementById(barId);
+      if (bar) {
+        const containerWidth = bar.offsetWidth;
+        bar.textContent = createBar(percentage, containerWidth);
+      }
     });
-  </script>
+  }
+
+  // Update bars with different percentages
+  window.addEventListener('load', function() {
+    updateBars([30, 50, 70]); // Update with real percentages as needed
+  });
+
+  // Recalculate and update bars when the window is resized
+  window.addEventListener('resize', function() {
+    updateBars([30, 50, 70]); // Recalculate with any desired percentages
+  });
+</script>
