@@ -1,5 +1,5 @@
 ---
-label: Treasury
+label: Investments
 icon: fiscal-host
 order: 99
 ---
