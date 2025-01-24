@@ -1,5 +1,5 @@
 ---
-label:  Terms
+label:  Terms of Use
 icon: dash
 order: 99
 ---
