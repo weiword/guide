@@ -24,8 +24,11 @@ services.
 !!!light
 weiword isn’t responsible for any mistakes in the information or for any losses you might experience from using it.
 !!!
-=== Before making any investments, you should speak with a financial advisor, lawyer, or tax expert to make sure you're making the right decisions.
-
+=== IV. NOT LEGAL OR FINANCIAL ADVICE
+Prior to making any investment you should consult with professional financial, legal, and tax advisors to assist in due diligence as may be appropriate and determining the appropriateness of the risk associated with a particular investment.
+!!!light
+Before making any investments, you should speak with a financial advisor, lawyer, or tax expert to make sure you're making the right decisions.
+!!!
 === weiword might already have investments in the stocks or securities they talk about on the site, which could affect their views.
 
 === If any part of these terms is found to be invalid or unenforceable, the rest of the terms will still apply.
