@@ -9,8 +9,8 @@ The information provided is for informational purposes only and does not constit
 
 ==- <pre id="btc">Bitcoin: [btcUSD] USD </pre> <pre id="bar-1"></pre>
 Content 1
-==- <pre>ETH:▐▓▓░░░░░░░░░░░░░░░░░▌ (10%) </pre>
+==- <pre id="eth">Ethereum: [ethUSD] USD </pre> <pre id="bar-2"></pre>
 Content 2
-==- <pre>SOL:▐▓▓░░░░░░░░░░░░░░░░░▌ (10%) </pre>
+==- <pre><pre id="sol">Solana: [solUSD] USD </pre> <pre id="bar-3"></pre>
 Content 3
 ==-
