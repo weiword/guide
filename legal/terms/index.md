@@ -1,8 +1,9 @@
 ---
 label:  Terms
 icon: dash
+order: 99
 ---
 
-!!! Please review these Terms of Use carefully
-Last Updated December 4, 2024.
+!!! Last Updated December 4, 2024
+Please review these Terms of Use carefully.
 !!!
