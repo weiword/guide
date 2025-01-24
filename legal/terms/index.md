@@ -15,3 +15,13 @@ By using this website, you agree to follow the rules outlined in these Terms of 
 === weiword isn’t responsible for any mistakes in the information or for any losses you might experience from using it.
 
 === Before making any investments, you should speak with a financial advisor, lawyer, or tax expert to make sure you're making the right decisions.
+
+=== weiword might already have investments in the stocks or securities they talk about on the site, which could affect their views.
+
+=== If any part of these terms is found to be invalid or unenforceable, the rest of the terms will still apply.
+
+=== You can’t use the website for anything illegal or against the rules. You need to follow all laws that apply.
+
+=== All the content on the website, like text, images, and logos, belongs to weiword unless stated otherwise. 
+
+=== If there are links to other websites, they’re just for your convenience. weiword isn’t connected to or responsible for what’s on those sites.
