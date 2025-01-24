@@ -1,4 +1,4 @@
 ---
 label:  Terms
-icon: square
+icon: dash
 ---
