@@ -20,13 +20,10 @@ The information provided is for informational purposes only and does not constit
 </style>
 
 ==- <div id="btc-container"><pre id="btc">Bitcoin: [btcUSD] USD</pre><pre id="bar-1" class="bar">Loading...</pre></div>
-Rank: S
-
-Current Strategy: DCA Buy
-
-Target: 15 Years, Jan 2025 - Jan 2040
-
-Target Return: 16x-50x
+- Rank: S
+- Current Strategy: DCA Buy
+- Target: 15 Years, Jan 2025 - Jan 2040
+- Target Return: 16x-50x
 
 ==- <div id="eth-container"><pre id="eth">Ethereum: [ethUSD] USD</pre><pre id="bar-2" class="bar">Loading...</pre></div>
 Content 2
