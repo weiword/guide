@@ -1,4 +1,4 @@
 ---
 label:  Wallets
-icon: key
+icon: dash
 ---
