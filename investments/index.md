@@ -32,6 +32,12 @@ Content 2
 Content 3
 ==-
 
+Action  | Assets  | USD  | Description
+---   | ---   | ---    | ---
+prop1 | type1 | value1 | A `type1` property
+prop2 | type2 | value2 | A `type2` property
+===
+
 <script>
   // Function to create the bar string based on percentage and container width
   function createBar(percentage, containerWidth) {
