@@ -19,7 +19,6 @@ The information provided is for informational purposes only and does not constit
   }
 </style>
 
-## Protocols
 ==- <div id="btc-container"><pre id="btc">Bitcoin: [btcUSD] USD</pre><pre id="bar-1" class="bar">Loading...</pre></div>
 Content 1
 ==- <div id="eth-container"><pre id="eth">Ethereum: [ethUSD] USD</pre><pre id="bar-2" class="bar">Loading...</pre></div>
