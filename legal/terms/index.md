@@ -1,6 +1,6 @@
 ---
 label:  Terms of Use
-icon: log
+icon: dash
 order: 99
 ---
 
