@@ -5,10 +5,10 @@ order: 99
 ---
 
 !!! Last Updated January 23, 2024
-By using this website, you agree to follow the rules outlined in these Terms of Use. Please review carefully. 
+By using this website, you agree to review ams follow the rules outlined in these Terms of Use. 
 !!!
 !!!danger 
-If you don't agree with these terms, please don't use this website.
+If you do not agree with these terms, please exit this website.
 !!!
 === I. DISCLAIMER
 Use of the research of ⨈𝚎𝚒⩖𝚘𝚛𝚍 is at your own risk. To the best of ⨈𝚎𝚒⩖𝚘𝚛𝚍's ability and belief, all information contained herein is accurate, reliable, and provided “as is.” ⨈𝚎𝚒⩖𝚘𝚛𝚍 disclaims making any express or implied warranties with respect to the fitness of the information contained herein for any particular usage, its merchantability, and/or its application or purpose.
