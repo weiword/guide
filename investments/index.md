@@ -4,7 +4,7 @@ icon: graph
 order: 99
 ---
 !!!warning Warning
-The information provided is for informational purposes only and does not constitute financial or legal advice.
+The information provided is for educational purposes only and does not constitute financial or legal advice.
 !!!
 
 <style>
