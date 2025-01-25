@@ -1,4 +1,4 @@
 ---
 label:  Privacy
-icon: log
+icon: dash
 ---
