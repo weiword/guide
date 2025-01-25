@@ -27,7 +27,12 @@ The information provided is for educational purposes only and does not constitut
 - :icon-goal: Target Return: 16x-50x
 
 ==- <div id="eth-container"><pre id="eth">Ethereum: [ethUSD] USD</pre><pre id="bar-2" class="bar">Loading...</pre></div>
-Content 2
+{.list-icon}
+- :icon-number: Rank: B
+- :icon-north-star: Current Strategy: DCA Buy wstETH + LP
+- :icon-hourglass: Target Duration: 15 Years, Jan 2025 - Jan 2040
+- :icon-goal: Target Return: 5x-16x
+
 ==- <div id="sol-container"><pre id="sol">Solana: [solUSD] USD</pre><pre id="bar-3" class="bar">Loading...</pre></div>
 Content 3
 ==-
