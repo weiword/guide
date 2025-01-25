@@ -20,10 +20,10 @@ The information provided is for educational purposes only and does not constitut
 </style>
 
 ==- <div id="btc-container"><pre id="btc">Bitcoin: [btcUSD] USD</pre><pre id="bar-1" class="bar">Loading...</pre></div>
-- Rank: S
-- Current Strategy: DCA Buy
-- Target: 15 Years, Jan 2025 - Jan 2040
-- Target Return: 16x-50x
+- :icon-number: Rank: S
+- :icon-north-star: Current Strategy: DCA Buy
+- :icon-hourglass: Target Duration: 15 Years, Jan 2025 - Jan 2040
+- :icon-goal: Target Return: 16x-50x
 
 ==- <div id="eth-container"><pre id="eth">Ethereum: [ethUSD] USD</pre><pre id="bar-2" class="bar">Loading...</pre></div>
 Content 2
