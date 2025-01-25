@@ -39,7 +39,7 @@ Content 3
 
 {.compact}
 Name   | Value | Description
-:---   | :---: | ---:
+:---   | :--- | :---
 Item 1 | Blue  | This is `Item 1`.
 Item 2 | Green | This is `Item 2`.
 
