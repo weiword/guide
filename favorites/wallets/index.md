@@ -1,4 +1,0 @@
----
-label:  Wallets
-icon: dash
----
