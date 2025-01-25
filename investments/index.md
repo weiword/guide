@@ -37,11 +37,13 @@ The information provided is for educational purposes only and does not constitut
 Content 3
 ==-
 
-Action  | Assets  | USD  | Description
----   | ---   | ---    | ---
-prop1 | type1 | value1 | A `type1` property
-prop2 | type2 | value2 | A `type2` property
-===
+{.compact}
+Name   | Value | Description
+:---   | :---: | ---:
+Item 1 | Blue  | This is `Item 1`.
+Item 2 | Green | This is `Item 2`.
+
+
 
 <script>
   // Function to create the bar string based on percentage and container width
