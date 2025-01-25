@@ -34,14 +34,17 @@ The information provided is for educational purposes only and does not constitut
 - :icon-goal: Target Return: 5x-16x
 
 ==- <div id="sol-container"><pre id="sol">Solana: [solUSD] USD</pre><pre id="bar-3" class="bar">Loading...</pre></div>
-Content 3
+Rank: B
+Current Strategy: DCA Buy/Stake
+Target: 15 Years, Jan 2025 - Jan 2040
+Target Return: 5x-16x
 ==-
 
 {.compact}
-Name   | Value | Description
-:---   | :--- | :---
-Item 1 | Blue  | This is `Item 1`.
-Item 2 | Green | This is `Item 2`.
+Action   | Assets | USD | Date
+:---   | :--- | :---  | :--- 
+Item 1 | Blue  | This is `Item 1`. | date
+Item 2 | Green | This is `Item 2`. | date
 
 
 
