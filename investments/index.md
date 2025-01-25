@@ -1,6 +1,6 @@
 ---
 label: Investments
-icon: fiscal-host
+icon: graph
 order: 99
 ---
 !!!warning Warning
