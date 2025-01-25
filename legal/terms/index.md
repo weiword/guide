@@ -5,7 +5,7 @@ order: 99
 ---
 
 !!! Last Updated January 23, 2024
-By using this website, you agree to review ams follow the rules outlined in these Terms of Use. 
+By using this website, you agree to review and follow the rules outlined in these Terms of Use. 
 !!!
 !!!danger 
 If you do not agree with these terms, please exit this website.
