@@ -1,4 +1,4 @@
 ---
 label:  Feed
-icon: bookmark
+icon: rss
 ---
