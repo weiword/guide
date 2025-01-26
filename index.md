@@ -1,4 +1,4 @@
 ---
-label:  Articles
+label:  Feed
 icon: bookmark
 ---
