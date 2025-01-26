@@ -6,7 +6,7 @@ authors:
     link: https://twitter.com/frank
     avatar:
 categories: [news, general]
-tags: [guide, config options, installation]
+tags: [guide, blog, config options, installation]
 date: 2020-11-25 # November 25, 2020
 order: 1
 ---
