@@ -1,4 +1,0 @@
----
-label:  Feed
-icon: rss
----
