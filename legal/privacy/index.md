@@ -1,5 +1,5 @@
 ---
-label:  Privacy
+label:  Privacy Policy
 icon: eye-closed
 ---
 !!!warning Last Updated January 23, 2024
