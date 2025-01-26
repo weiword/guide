@@ -1,5 +1,5 @@
 ---
-label:  Blog
+label:  hellow world
 icon: rss
-order: 101
 ---
+first post
