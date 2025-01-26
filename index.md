@@ -1,4 +1,4 @@
 ---
 
-redirect: /tags/blog
+redirect: /guide/tags/blog
 ---
