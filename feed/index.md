@@ -1,2 +1,2 @@
 
-[!ref](/feed/first.md)
+[!ref title="hello world" text="good start"](/feed/first.md)
