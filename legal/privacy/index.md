@@ -9,7 +9,7 @@ By using this website, you agree to review and follow the rules outlined in this
 If you do not agree with these terms, please exit this website.
 !!!
 
-At Weiword, your privacy is important to us. We do not collect, store, or share any personal information about visitors to our website.
+At ⨈ei⩖ord, your privacy is important to us. We do not collect, store, or share any personal information about visitors to our website.
 
 However, third-party services may collect information automatically, such as your IP address, browser type, and usage data, in order to improve website functionality. These third parties include, but are not limited to, our hosting provider, GitHub.
 
