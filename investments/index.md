@@ -1,5 +1,5 @@
 ---
-label: Investments
+label: Assets
 icon: graph
 order: 99
 ---
