@@ -1,4 +1,5 @@
 ---
-label:  home
-icon: 
+label:  Blog
+icon: rss
+redirect: /blog
 ---
