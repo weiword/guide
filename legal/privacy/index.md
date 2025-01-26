@@ -2,8 +2,8 @@
 label:  Privacy Policy
 icon: eye-closed
 ---
-!!!warning Last Updated January 23, 2024
-By using this website, you agree to review and follow the rules outlined in these Terms of Use.
+!!! Last Updated January 23, 2024
+By using this website, you agree to review and follow the rules outlined in this Privacy Policy.
 !!!
 !!!danger
 If you do not agree with these terms, please exit this website.
