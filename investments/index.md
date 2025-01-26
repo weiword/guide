@@ -40,7 +40,7 @@ The information provided is for educational purposes only and does not constitut
 ==-
 
 {.compact}
-Action   | Assets | USD |  Value | Date
+Action   | Asset | USD |  Value | Date
 :---   | :--- | :---  | :--- | :---
 Item 1 | Blue  | This is `Item 1`. | value | date
 Item 2 | Green | This is `Item 2`. | value | date
