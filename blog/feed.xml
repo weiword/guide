@@ -5,14 +5,14 @@
     <link>/blog/</link>
     <description>Blog</description>
     <copyright>© Copyright 2025. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 26 Jan 2025 03:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 03:20:44 GMT</lastBuildDate>
     <generator>https://retype.com</generator>
     <atom:link rel="self" type="application/rss+xml" href="/blog/feed.xml" />
     <item>
-      <title>hellow world</title>
+      <title>hello world</title>
       <guid isPermaLink="true">/blog/post/</guid>
       <description>first post</description>
-      <pubDate>Sun, 26 Jan 2025 03:20:28 GMT</pubDate>
+      <pubDate>Sun, 26 Jan 2025 03:20:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
