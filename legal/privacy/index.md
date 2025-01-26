@@ -6,7 +6,7 @@ icon: eye-closed
 By using this website, you agree to review and follow the rules outlined in this Privacy Policy.
 !!!
 !!!danger
-If you do not agree with these terms, please exit this website.
+If you do not agree with these terms, please [!button variant="danger" text="exit"](https://pump.fum/) this website.
 !!!
 
 At ⨈ei⩖ord, your privacy is important to us. We do not collect, store, or share any personal information about visitors to our website.
