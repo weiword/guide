@@ -1,5 +1,5 @@
 ---
-label:  hellow world
+label:  hello world
 icon: rss
 ---
 first post
