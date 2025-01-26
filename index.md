@@ -1,3 +1,4 @@
 ---
-redirect: /feed
+
+redirect: /tags/blog
 ---
