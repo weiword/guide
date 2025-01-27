@@ -3,10 +3,8 @@ label:  Privacy Policy
 icon: eye-closed
 ---
 !!! Last Updated January 23, 2024
-By using this website, you agree to review and follow the rules outlined in this Privacy Policy.
-!!!
-!!!danger
- [!button variant="danger" text="I do not agree"](https://pump.fun/)
+By using this website, you agree to review and follow the rules outlined in the [Terms of Use](/legal/terms/index.md) and  [Privacy Policy](/legal/privacy/index.md)Privacy Policy.
+[!button variant="danger" text="I Do Not Agree"](https://pump.fun/)
 !!!
 
 At ⨈ei⩖ord, your privacy is important to us. We do not collect, store, or share any personal information about visitors to our website.
