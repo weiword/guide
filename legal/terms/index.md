@@ -7,7 +7,7 @@ order: 99
 !!!light Last Updated January 23, 2025
 By using this website, you agree to review and follow the rules outlined in the [Terms of Use](/legal/terms/index.md) and  [Privacy Policy](/legal/privacy/index.md).
 
-[!button variant="danger" icon="thumbsdown" text="I Do Not Agree"](https://pump.fun/)
+[!button variant="light" icon="thumbsdown" text="I Do Not Agree"](https://pump.fun/)
 !!!
 === I. DISCLAIMER
 Use of the research of ⨈ei⩖ord is at your own risk. To the best of ⨈ei⩖ord's ability and belief, all information contained herein is accurate, reliable, and provided “as is.” ⨈ei⩖ord disclaims making any express or implied warranties with respect to the fitness of the information contained herein for any particular usage, its merchantability, and/or its application or purpose.
