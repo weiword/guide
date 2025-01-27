@@ -1,1 +1,24 @@
 <style> html,body,div { font-family: 'Courier Prime', monospace; } </style>
+
+<script>
+    window.onload = function() {
+      // Array of color values
+      const colors = ["#FF5733", "#33FF57", "#3357FF"];
+
+      // Pick a random color from the array
+      const randomColor = colors[Math.floor(Math.random() * colors.length)];
+
+      // Select the first <style> tag in the document
+      const styleTag = document.querySelector("style");
+
+      // Update the color rule for <a> elements in the <style> tag
+      styleTag.innerHTML = `
+        a {
+          color: ${randomColor} !important;
+          text-decoration: none;
+          font-size: 18px;
+          margin: 5px;
+        }
+      `;
+    };
+  </script>
