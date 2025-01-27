@@ -5,7 +5,7 @@ url:
 branding:
   title: Weiword
   label: Guide
-  logo: 
+  logo: /resources/repo.svg
 
 edit:
   repo: https://github.com/weiword/guide/
