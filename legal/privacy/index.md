@@ -5,7 +5,7 @@ icon: eye-closed
 !!!light Last Updated January 23, 2025
 By using this website, you agree to review and follow the rules outlined in the [Terms of Use](/legal/terms/index.md) and  [Privacy Policy](/legal/privacy/index.md).
 
-[!button variant="danger" icon="thumbsdown" text="I Do Not Agree"](https://pump.fun/)
+[!button variant="light" icon="thumbsdown" text="I Do Not Agree"](https://pump.fun/)
 !!!
 
 At ⨈ei⩖ord, your privacy is important to us. We do not collect, store, or share any personal information about visitors to our website.
