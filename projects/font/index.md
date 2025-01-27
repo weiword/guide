@@ -5,7 +5,7 @@ order: 99
 ---
 
 <style>
-    .font {
+   html,body,div {
       font-family: 'Courier New', monospace;
       font-size: 1em;
       white-space: pre-wrap;
