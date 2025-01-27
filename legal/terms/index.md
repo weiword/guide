@@ -4,7 +4,7 @@ icon: log
 order: 99
 ---
 
-!!! Last Updated January 23, 2024
+!!! Last Updated January 23, 2025
 By using this website, you agree to review and follow the rules outlined in the [Terms of Use](/legal/terms/index.md) and  [Privacy Policy](/legal/privacy/index.md).
 
 [!button variant="danger" icon="thumbsdown" text="I Do Not Agree"](https://pump.fun/)
