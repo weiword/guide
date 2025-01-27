@@ -2,23 +2,46 @@
 
 <script>
     window.onload = function() {
-      // Array of color values
-      const colors = ["#FF5733", "#33FF57", "#3357FF"];
+      // Array of color sets, each containing two colors
+      const colorSets = [
+        ["rgb(252, 114, 255)", "rgb(250, 216, 248)"], // Set 2: UNI
+      ];
 
-      // Pick a random color from the array
-      const randomColor = colors[Math.floor(Math.random() * colors.length)];
+      // Pick a random set from the array
+      const randomSet = colorSets[Math.floor(Math.random() * colorSets.length)];
+
+      // Apply the first color and the second color
+      const [primaryColor, secondaryColor] = randomSet;
 
       // Select the first <style> tag in the document
       const styleTag = document.querySelector("style");
 
-      // Update the color rule for <a> elements in the <style> tag
+      // Update the CSS rules
       styleTag.innerHTML = `
-        a {
-          color: ${randomColor} !important;
-          text-decoration: none;
-          font-size: 18px;
-          margin: 5px;
-        }
+
+      a {
+      color: ${primaryColor}  !important;
+      }
+
+      .text-root-logo-label-text {
+      color: ${primaryColor} !important;
+      }
+
+      .bg-root-logo-label-bg {
+      background-color: ${secomdaryColor} !important;
+      }
+
+     .text-blue-500 {
+     color: ${primaryColor} !important;
+     }
+
+     .border-blue-500 {
+     border-color: ${primaryColor} !important;
+     }
+
+     .group:hover .group-hover\:text-blue-500 {
+     color: ${primaryColor} !important;
+     }
       `;
     };
   </script>
