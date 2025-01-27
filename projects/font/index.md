@@ -6,7 +6,7 @@ order: 99
 
 <style>
    html,body,div {
-      font-family: 'Courier New', monospace;
+      font-family: 'Courier Prime', monospace;
     }
 </style>
 :::font
