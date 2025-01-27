@@ -3,7 +3,7 @@ label: Assets
 icon: graph
 order: 99
 ---
-!!!warning Warning
+!!!light :icon-alert-fill: Warning
 The information provided is for educational purposes only and does not constitute financial or legal advice.
 !!!
 
