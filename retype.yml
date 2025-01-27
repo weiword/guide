@@ -3,8 +3,8 @@ output: .retype
 url: 
 
 branding:
-  title: Weiword's Guide
-  label: v1
+  title: Weiword
+  label: Guide
   logo: /resources/repo.svg
 
 edit:
