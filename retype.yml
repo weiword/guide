@@ -3,7 +3,7 @@ output: .retype
 url: 
 
 branding:
-  title: ":icon-home:" Weiword
+  title: ":icon-home:"
   label: Guide
   logo: /resources/repo.svg
 
