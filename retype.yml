@@ -3,9 +3,9 @@ output: .retype
 url: 
 
 branding:
-  title: ":icon-home:"
+  title: ":icon-book: Weiword"
   label: Guide
-  logo: /resources/repo.svg
+  logo: 
 
 edit:
   repo: https://github.com/weiword/guide/
