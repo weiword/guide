@@ -1,5 +1,5 @@
 ---
 title: Blog
 icon: rss
-redirect: /tags/blog
+redirect: /posts/01282025/
 ---
