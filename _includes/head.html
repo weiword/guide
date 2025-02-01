@@ -1,16 +1,20 @@
 <style> 
 html,body,div { font-family: 'Courier Prime', monospace; } 
-#docs-site-logo {
+#docs-site-logo span {
 background: url('https://github.com/weiword/guide/blob/main/resources/font_animation.gif?raw=true') repeat;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             color: transparent;
 font-size: 3.5rem !important;
 }
-#docs-site-logo:after {
-    text-shadow: 2px 2px black;
-    color: transparent;
-  }
+#docs-site-logo span::before {
+    content: "WEIWORD"; 
+    position: absolute;
+    top: 4px; 
+    left: 4px;
+    color: rgba(0, 0, 0, 0.5);
+    z-index: -1; 
+}
 </style>
 
 <script>
