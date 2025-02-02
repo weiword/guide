@@ -7,12 +7,6 @@ background: url('https://github.com/weiword/guide/blob/main/resources/font_anima
             color: transparent;
 font-size: 3.5rem !important;
 }
-#docs-site-logo span::before {
-    content: "WEIWORD"; 
-    position: absolute;
-    text-shadow: 1px 1px #808080;
-    z-index: -1; 
-}
 
 </style>
 
@@ -80,11 +74,18 @@ font-size: 3.5rem !important;
      }
 
      .container {
-background-image: 
+      background-image: 
         linear-gradient(-45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%),
         linear-gradient(45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%);
       background-size: 3px 3px;
       background-repeat: repeat;
+      }
+
+      #docs-site-logo span::before {
+    content: "WEIWORD"; 
+    position: absolute;
+    text-shadow: 1px 1px ${firstColor};
+    z-index: -1; 
 }
       `;
     };
