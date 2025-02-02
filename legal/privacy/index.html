@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.791786783285">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.791786913703">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -30,11 +30,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.6.0.791786783285" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.791786913703" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.791786783285" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.791786913703" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.791786783285" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.791786913703" data-turbo-eval="false" defer></script>
 
     <style> 
     html,body,div { font-family: 'Courier Prime', monospace; } 
@@ -44,6 +44,7 @@
                 -webkit-text-fill-color: transparent;
                 color: transparent;
     font-size: 3.5rem !important;
+    z-index: 2; 
     }
 
     </style>
@@ -115,7 +116,7 @@
         content: "WEIWORD"; 
         position: absolute;
         text-shadow: 1px 1px ${firstColor};
-        z-index: -1; 
+        z-index: 1; 
          }
          .container {
           background-image: 
@@ -123,7 +124,6 @@
             linear-gradient(45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%);
           background-size: 3px 3px;
           background-repeat: repeat;
-          z-index: -2; 
           }
 
           
