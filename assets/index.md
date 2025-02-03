@@ -3,7 +3,7 @@ label: redacted
 icon: graph
 order: 99
 ---
-!!!light ri-ˈdak-təd:
+!!!light re·​dact·​ed:
 "Another way of saying retarded while avoiding censors."
 !!!
 
