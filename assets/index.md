@@ -4,7 +4,7 @@ icon: graph
 order: 99
 ---
 !!!light re·​dact·​ed:
-"Another way of saying retarded while avoiding censors."
+"Another way of saying retarded while avoiding censors." - U.D.(August 12, 2022)
 !!!
 
 <style>
