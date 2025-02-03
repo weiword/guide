@@ -1,9 +1,9 @@
 ---
-label: [redacted]
+label: redacted
 icon: graph
 order: 99
 ---
-!!!light [ri-ˈdak-təd]:
+!!!light ri-ˈdak-təd:
 "Another way of saying retarded while avoiding censors."
 !!!
 
