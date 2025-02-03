@@ -87,10 +87,12 @@ font-size: 3.5rem !important;
       background-repeat: repeat;
       } 
       input {
-      background: ${bkrndColor} !important;
+      background: none !important;
       border: 1px solid ${firstColor} !important;
       }
-
+      input::placeholder {
+    color: ${firstColor}; 
+    }
       .docs-panels {
       border: 1px solid ${secondColor} !important;
       border-left: 4px solid ${secondColor} !important;
