@@ -3,8 +3,8 @@ label: [redacted]
 icon: graph
 order: 99
 ---
-!!!light Warning
-The information provided is for educational purposes only and does not constitute financial or legal advice.
+!!!light [ri-ˈdak-təd]:
+"Another way of saying retarded while avoiding censors."
 !!!
 
 <style>
