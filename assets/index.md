@@ -1,5 +1,5 @@
 ---
-label: Assets
+label: [redacted]
 icon: graph
 order: 99
 ---
