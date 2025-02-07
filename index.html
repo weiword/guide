@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.792269111556">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.792270868745">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -28,11 +28,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="resources/css/retype.css?v=3.6.0.792269111556" rel="stylesheet">
+    <link href="resources/css/retype.css?v=3.6.0.792270868745" rel="stylesheet">
 
-    <script data-cfasync="false" src="resources/js/config.js?v=3.6.0.792269111556" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="resources/js/config.js?v=3.6.0.792270868745" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="resources/js/lunr.js?v=3.6.0.792269111556" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="resources/js/lunr.js?v=3.6.0.792270868745" data-turbo-eval="false" defer></script>
 
     <style> 
     html,body,div { font-family: 'Courier Prime', monospace; } 
@@ -137,6 +137,20 @@
           input::placeholder {
         color: ${firstColor} !important; 
         }
+        :is(.dark .dark\:bg-dark-850) {
+          background-image: 
+            linear-gradient(-45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%),
+            linear-gradient(45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%);
+          background-size: 3px 3px;
+          background-repeat: repeat;
+        }
+        :is(.dark .dark\:bg-dark-700) {
+          background-image: 
+            linear-gradient(-45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%),
+            linear-gradient(45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%);
+          background-size: 3px 3px;
+          background-repeat: repeat;
+    }
           .docs-panels {
           border-left: 4px solid transparent !important;
           border-image: url('https://github.com/weiword/guide/blob/main/resources/ir_animation_dark.gif?raw=true') 30 stretch;
