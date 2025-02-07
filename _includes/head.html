@@ -101,6 +101,20 @@ font-size: 3.5rem !important;
       input::placeholder {
     color: ${firstColor} !important; 
     }
+    :is(.dark .dark\:bg-dark-850) {
+      background-image: 
+        linear-gradient(-45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%),
+        linear-gradient(45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%);
+      background-size: 3px 3px;
+      background-repeat: repeat;
+    }
+    :is(.dark .dark\:bg-dark-700) {
+      background-image: 
+        linear-gradient(-45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%),
+        linear-gradient(45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%);
+      background-size: 3px 3px;
+      background-repeat: repeat;
+}
       .docs-panels {
       border-left: 4px solid transparent !important;
       border-image: url('https://github.com/weiword/guide/blob/main/resources/ir_animation_dark.gif?raw=true') 30 stretch;
