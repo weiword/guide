@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.792271240995">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.792271528671">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -27,11 +27,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../resources/css/retype.css?v=3.6.0.792271240995" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.6.0.792271528671" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.6.0.792271240995" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.6.0.792271528671" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.6.0.792271240995" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.6.0.792271528671" data-turbo-eval="false" defer></script>
 
     <style> 
     html,body,div { font-family: 'Courier Prime', monospace; } 
@@ -44,125 +44,6 @@
     }
 
     </style>
-
-    <script>
-        window.onload = function() {
-          // Array of color sets, each containing two colors
-          const colorSets = [
-            ["rgb(237,237,237, 0.6)", "rgb(150,150,150)", "rgb(237,237,237)", "rgb(150,150,150)", "rgb(237,237,237)"]
-          ];
-
-          // Pick a random set from the array
-          const randomSet = colorSets[Math.floor(Math.random() * colorSets.length)];
-
-          // Apply the first color and the second color
-          const [bkrndColor, firstColor, secondColor, thirdColor, fourthColor] = randomSet;
-
-          // Select the first <style> tag in the document
-          const styleTag = document.querySelector("style");
-
-          // Update the CSS rules
-          styleTag.innerHTML = `
-
-          a, svg {
-          color: ${firstColor};
-          }
-
-          .dark a, .dark svg {
-          color: white;
-          }
-
-          a span {
-          color: ${firstColor};
-          }
-          
-          .dark a span {
-          color: white;
-          }
-
-          .text-root-logo-label-text {
-          color: ${firstColor};
-          }
-
-          .bg-root-logo-label-bg {
-          background-color: ${secondColor};
-          }
-
-         .text-blue-500 {
-         color: ${firstColor};
-         }
-
-         .border-blue-500 {
-         border-color: ${firstColor};
-         }
-
-         .group:hover .group-hover\:text-blue-500 {
-         color: ${firstColor};
-         }
-
-         .border-gray-200 {
-         border:none;
-         }
-
-         .bg-gray-300 {
-         background: url('https://github.com/weiword/guide/blob/main/resources/ir_animation_dark.gif?raw=true') repeat;
-          }
-
-         .border-gray-300 {
-         border-image: url('https://github.com/weiword/guide/blob/main/resources/ir_animation_dark.gif?raw=true') 30 stretch;
-         }
-
-         .text-gray-400 {
-         color: ${thirdColor};
-         }
-         
-         #docs-site-logo span::before {
-        content: "WEIWORD"; 
-        position: absolute;
-        text-shadow: 1px 1px ${secondColor};
-        z-index: -1; 
-         }
-        html, #docs-app, #docs-app > *, .sidebar-right, aside div:nth-child(2) {
-          background-image: 
-            linear-gradient(-45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%),
-            linear-gradient(45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%);
-          background-size: 3px 3px;
-          background-repeat: repeat;
-          } 
-          input {
-          background: none !important;
-          border: 1px solid ${firstColor} !important;
-          }
-          input::placeholder {
-        color: ${firstColor} !important; 
-        }
-        .dark\:bg-dark-850 {
-          background-image: 
-            linear-gradient(-45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%),
-            linear-gradient(45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%);
-          background-size: 3px 3px;
-          background-repeat: repeat;
-        }
-        .dark\:bg-dark-700 {
-          background-image: 
-            linear-gradient(-45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%),
-            linear-gradient(45deg, ${bkrndColor} 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, ${bkrndColor} 50%, ${bkrndColor} 75%, rgba(255, 255, 255, 0) 75%);
-          background-size: 3px 3px;
-          background-repeat: repeat;
-    }
-          .docs-panels {
-          border-left: 4px solid transparent !important;
-          border-image: url('https://github.com/weiword/guide/blob/main/resources/ir_animation_dark.gif?raw=true') 30 stretch;
-          }
-
-          .docs-panels > * {
-          border-bottom: 1px solid transparent !important;
-          border-image: url('https://github.com/weiword/guide/blob/main/resources/ir_animation_dark.gif?raw=true') 30 stretch;
-          }
-          
-          `;
-        };
-      </script>
 
 </head>
 <body>
