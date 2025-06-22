@@ -1,4 +1,4 @@
 ---
 label:  Projects
-icon: folder
+icon: file-directory
 ---
