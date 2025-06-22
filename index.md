@@ -1,3 +1,4 @@
 ---
-label:  Home
+label:  Projects
+icon: folder
 ---
