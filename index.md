@@ -1,3 +1,4 @@
 ---
+layout: none
 redirect: /projects
 ---
