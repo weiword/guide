@@ -1,5 +1,5 @@
 ---
 layout: none
 redirect: /projects
-navigation: false
+visibility: hidden
 ---
