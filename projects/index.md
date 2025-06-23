@@ -1,7 +1,7 @@
 ---
 label:  Projects
 icon: file-directory
-order: 1
+order: 10
 ---
 === gptAgent
 Content 1
