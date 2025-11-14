@@ -8,7 +8,7 @@ By using this website, you agree to review and follow the rules outlined in the 
 [!button variant="light" icon="thumbsdown" text="I Do Not Agree"](https://pump.fun/)
 !!!
 
-At ⨈ei⩖ordWEIWORD, your privacy is important. We do not collect, store, or share any personal information about visitors to our website.
+At WEIWORD, your privacy is important. We do not collect, store, or share any personal information about visitors to our website.
 
 However, third-party services may collect information automatically, such as your IP address, browser type, and usage data, in order to improve website functionality. These third parties include, but are not limited to, our hosting provider, GitHub.
 
