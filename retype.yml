@@ -3,8 +3,8 @@ output: .retype
 url: 
 
 branding:
-  title: "WEIWORD"
-  label: "docs"
+  title: "weiword"
+  label: "dex"
   logo: 
 
 edit:
