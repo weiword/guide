@@ -3,20 +3,20 @@ output: .retype
 url: 
 
 branding:
-  title: "WEIWORD"
-  label: "docs"
+  title: "weiword"
+  label: "guide"
   logo: 
 
 edit:
   repo: https://github.com/weiword/guide/
 
 links:
-  - text: ""
+  - text: "bird"
     link: https://twitter.com/0xWeiword
     icon: ""
     target: blank
 
-  - text: ""
+  - text: "cat"
     link: https://github.com/weiword/
     icon: ""
     target: blank
