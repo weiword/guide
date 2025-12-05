@@ -3,8 +3,8 @@ output: .retype
 url: 
 
 branding:
-  title: "weiword"
-  label: "dex"
+  title: "WEIWORD"
+  label: "docs"
   logo: 
 
 edit:
@@ -15,7 +15,7 @@ links:
     link: https://twitter.com/0xWeiword
     icon: ""
     target: blank
-    
+
   - text: ""
     link: https://github.com/weiword/
     icon: ""
