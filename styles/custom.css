@@ -1,34 +1,7 @@
-:root {
-  --base-color: #0000ee !important;
-  --base-bg: #ffffff !important;
-  --base-text: #000000 !important;
-  --base-link: #0000ee !important;
-  --base-link-hover: #551a8b !important;
-  --base-border: #ffffff !important;
-}
-
 html,
 body {
   background: #ffffff !important;
   color: #000000 !important;
   font-family: "Times New Roman", Times, serif !important;
-  font-size: 18px !important;
-  line-height: 1.35 !important;
-  letter-spacing: 0 !important;
-  text-rendering: auto !important;
-  -webkit-font-smoothing: none !important;
 }
-
-*,
-*::before,
-*::after {
-  box-shadow: none !important;
-  text-shadow: none !important;
-  filter: none !important;
-  backdrop-filter: none !important;
-  border-radius: 0 !important;
-  transition: none !important;
-  animation: none !important;
-}
-
 
