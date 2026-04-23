@@ -1,7 +1,8 @@
 ﻿
 - [portfolio](https://weiword.github.io/guide/portfolio/index.md): finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.
+- [legal](https://weiword.github.io/guide/legal/index.md)
 
-## Legal
+## legal
 
 - [terms of use](https://weiword.github.io/guide/legal/terms/index.md): By using this website, you agree to review and follow the rules outlined in the Terms of Use and Privacy Policy.
 - [privacy policy](https://weiword.github.io/guide/legal/privacy/index.md): By using this website, you agree to review and follow the rules outlined in the Terms of Use and Privacy Policy.
