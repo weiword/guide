@@ -1,5 +1,5 @@
 ---
 label:  Portfolio
-icon: fiscal-host
-order: 1
+icon: fiscal-host-24
+order: 10
 ---
