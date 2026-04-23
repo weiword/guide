@@ -1,5 +1,5 @@
 ---
 layout: none
-redirect: /projects
+redirect: /portfolio
 visibility: hidden
 ---
