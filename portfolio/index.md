@@ -1,11 +1,11 @@
-!!!info Philippians 4:8
-Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.
+!!!info philippians 4:8
+finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.
 !!!
 
 ## 00
-- [BTC](btc.md)
-- [ETH](eth.md)
-- [S&P](sp.md)
-- [USD](usd.md)
+- [btc](btc.md)
+- [eth](eth.md)
+- [sp500](sp.md)
+- [usd](usd.md)
 
 ## 01
