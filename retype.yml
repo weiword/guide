@@ -6,7 +6,10 @@ branding:
   title: "weiword"
   label: "guide"
   logo: 
-
+  
+styles:
+  - styles/custom.css
+  
 edit:
   repo: https://github.com/weiword/guide/
 
