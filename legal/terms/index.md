@@ -1,5 +1,5 @@
 ---
-label:  Terms of Use
+label:  terms of use
 icon: log
 order: 99
 ---
