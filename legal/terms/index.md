@@ -1,7 +1,3 @@
-!!!info Luke 6:31
-“Do to others as you would have them do to you.” 
-!!!
-
 !!!light Last Updated January 23, 2025
 By using this website, you agree to review and follow the rules outlined in the [Terms of Use](/legal/terms/index.md) and  [Privacy Policy](/legal/privacy/index.md).
 
