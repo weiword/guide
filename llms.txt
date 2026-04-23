@@ -1,5 +1,4 @@
 ﻿
-- [Art](https://weiword.github.io/guide/art/index.md)
 - [Portfolio](https://weiword.github.io/guide/portfolio/index.md)
 
 ## Legal
