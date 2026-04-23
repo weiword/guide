@@ -15,6 +15,10 @@ finally, brothers and sisters, whatever is true, whatever is noble, whatever is 
 - [usd](usd.md)
 
 ## 01
-
+- [sol](btc.md)
+- [hype](eth.md)
+- [wld](sp.md)
+- [uni](eth.md)
+- [aave](sp.md)
 
 
