@@ -1,6 +1,6 @@
 ---
-label:  moneta
-icon: fiscal-host-24
+label:  token
+icon: fiscal-host
 order: 10
 ---
 
