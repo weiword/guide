@@ -1,10 +1,4 @@
 ---
-title: "{token_name} ({token_symbol}) Token Information"
-chain: "{chain}"
-token_address: "{token_address}"
-last_updated: "{iso_timestamp_utc}"
-data_sources:
-  - "{source_name}: {source_url}"
 label:  token
 icon: database
 order: 4
