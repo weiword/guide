@@ -1,6 +1,6 @@
 ﻿
 - [token](https://weiword.github.io/guide/token/index.md)
-- [Wallets](https://weiword.github.io/guide/wallets/index.md)
+- [wallets](https://weiword.github.io/guide/wallets/index.md)
 
 ## skills
 
