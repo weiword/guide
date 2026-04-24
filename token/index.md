@@ -6,7 +6,7 @@ order: 4
 # {token_name} ({token_symbol})
 [`{chain}:{token_address}`](www.google.com)
 !!!info
-Informational token profile for $token. This page is not financial advice.
+Informational token profile for $token. Not financial advice. Data collected from sources listed. Figures may change rapidly.
 !!!
 
 ## Summary
@@ -81,7 +81,3 @@ Informational token profile for $token. This page is not financial advice.
 - Market Page: {market_url}
 - Documentation: {docs_url}
 - Social: {social_links}
-
-## Source Notes
-
-Data was collected from the sources listed in the frontmatter. Figures may change rapidly, especially for newly launched or low-liquidity tokens.
