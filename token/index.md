@@ -3,7 +3,6 @@ label:  token
 icon: database
 order: 4
 ---
-
 # {token_name} ({token_symbol})
 
 > Informational token profile for `{chain}:{token_address}`. This page is not financial advice.
@@ -84,4 +83,3 @@ order: 4
 ## Source Notes
 
 Data was collected from the sources listed in the frontmatter. Figures may change rapidly, especially for newly launched or low-liquidity tokens.
-```
