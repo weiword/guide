@@ -1,5 +1,5 @@
 ---
 label:  token
-icon: "◎"
+icon: database
 order: 10
 ---
