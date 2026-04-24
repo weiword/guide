@@ -1,6 +1,6 @@
 ﻿
 - [token](https://weiword.github.io/guide/token/index.md)
-- [wallets](https://weiword.github.io/guide/wallets/index.md): primary: 0x0E903C3BBf5ed7179B7D1Da391A3cEEa303134E0
+- [wallets](https://weiword.github.io/guide/wallets/index.md): hot: 0x0E903C3BBf5ed7179B7D1Da391A3cEEa303134E0
 
 ## skills
 
