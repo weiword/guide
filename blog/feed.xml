@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project Updates</title>
+    <title>updates</title>
     <link>https://weiword.github.io/guide/blog/</link>
     <description>latest project updates and release notes</description>
     <copyright>© Copyright 2026. All rights reserved.</copyright>
