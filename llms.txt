@@ -1,6 +1,6 @@
 ﻿
 - [ ()](https://weiword.github.io/guide/token/index.md): Informational token profile for {chain}:{token_address}. This page is not financial advice.
-- [wallets](https://weiword.github.io/guide/wallets/index.md): 0x0E903C3BBf5ed7179B7D1Da391A3cEEa303134E0
+- [Wallet Address Information: <wallet_address>](https://weiword.github.io/guide/wallets/index.md): Chain: Last updated: <human-readable date/time> Data currency: <display_currency>
 
 ## skills
 
