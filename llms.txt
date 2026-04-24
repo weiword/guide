@@ -1,5 +1,5 @@
 ﻿
-- [ ()](https://weiword.github.io/guide/token/index.md): Informational token profile for {chain}:{token_address}. This page is not financial advice.
+- [ ()](https://weiword.github.io/guide/token/index.md): {chain}:{token_address} Informational token profile for $token. This page is not financial advice.
 - [Account <wallet_address>](https://weiword.github.io/guide/wallets/index.md): Chain: Last updated: <human-readable date/time> Data currency: <display_currency>
 
 ## skills
