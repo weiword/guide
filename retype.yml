@@ -9,7 +9,10 @@ branding:
   
 edit:
   repo: https://github.com/weiword/guide/
-
+  
+blog:
+  layout: page
+  
 links:
   - text: "bird"
     link: https://twitter.com/0xWeiword
