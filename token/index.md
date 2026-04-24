@@ -5,7 +5,10 @@ order: 4
 ---
 # {token_name} ({token_symbol})
 
-> Informational token profile for `{chain}:{token_address}`. This page is not financial advice.
+!!!info
+[`{chain}:{token_address}`](www.google.com)
+Informational token profile for $token. This page is not financial advice.
+!!!
 
 ## Summary
 
