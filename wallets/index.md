@@ -1,5 +1,5 @@
 ---
-label:  wallets
+label:  treasury
 icon: fiscal-host
 order: 3
 ---
