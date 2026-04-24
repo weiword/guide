@@ -22,6 +22,7 @@ links:
     target: blank
 blog:
   rss:
+    base: blog
     description: latest project updates and release notes
     title: updates
     
