@@ -1,7 +1,6 @@
 # {token_name} ({token_symbol})
-
-!!!info
 [`{chain}:{token_address}`](www.google.com)
+!!!info
 Informational token profile for $token. This page is not financial advice.
 !!!
 
