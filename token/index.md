@@ -1,6 +1,6 @@
 ---
 label:  token
-icon: fiscal-host
+icon: "◎"
 order: 10
 ---
 
