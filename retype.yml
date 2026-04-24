@@ -23,6 +23,7 @@ links:
 blog:
   rss:
     description: latest project updates and release notes
+    title: Project Updates
     
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
