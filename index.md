@@ -1,5 +1,5 @@
 ---
 layout: none
-redirect: /portfolio
+redirect: /blog
 visibility: hidden
 ---
