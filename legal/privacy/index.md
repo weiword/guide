@@ -2,7 +2,7 @@
 label:  privacy policy
 icon: eye-closed
 ---
-!!! last updated january 23, 2025
+!!! light last updated january 23, 2025
 by using this website, you agree to review and follow the rules outlined in the [terms of use](/legal/terms/index.md) and [privacy policy](/legal/privacy/index.md).
 
 [!button icon="thumbsdown" text="i do not agree"](https://pump.fun/)
