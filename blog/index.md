@@ -1,3 +1,5 @@
 ---
+icon: rss
+order: 5
 label: updates
 ---
