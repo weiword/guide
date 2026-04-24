@@ -20,6 +20,10 @@ links:
     link: https://github.com/weiword/
     icon: ""
     target: blank
+blog:
+  rss:
+    description: latest project updates and release notes
+    
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 
