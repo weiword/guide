@@ -1,6 +1,10 @@
 ﻿
 - [moneta](https://weiword.github.io/guide/portfolio/index.md): finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.
 
+## skills
+
+- [behavior.md](https://weiword.github.io/guide/skills/behavior/behavior.md): Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.
+
 ## legal
 
 - [terms of use](https://weiword.github.io/guide/legal/terms/index.md): By using this website, you agree to review and follow the rules outlined in the Terms of Use and Privacy Policy.
