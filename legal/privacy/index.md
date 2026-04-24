@@ -2,10 +2,10 @@
 label:  privacy policy
 icon: eye-closed
 ---
-!!!light Last Updated January 23, 2025
-by using this website, you agree to review and follow the rules outlined in the [terms of use](/legal/terms/index.md) and  [privacy policy](/legal/privacy/index.md).
+!!! last updated january 23, 2025
+by using this website, you agree to review and follow the rules outlined in the [terms of use](/legal/terms/index.md) and [privacy policy](/legal/privacy/index.md).
 
-[!button variant="light" icon="thumbsdown" text="I Do Not Agree"](https://pump.fun/)
+[!button icon="thumbsdown" text="i do not agree"](https://pump.fun/)
 !!!
 
 your privacy is important. we do not collect, store, or share any personal information about visitors to our website.
