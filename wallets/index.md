@@ -4,7 +4,7 @@ icon: fiscal-host
 order: 3
 ---
 
-# Wallet Address Information: `<wallet_address>`
+# Account `<wallet_address>`
 
 > Chain: **<chain>**  
 > Last updated: **<human-readable date/time>**  
