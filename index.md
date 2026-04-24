@@ -1,5 +1,5 @@
 ---
 layout: none
-redirect: /blog
+redirect: /guide/token
 visibility: hidden
 ---
