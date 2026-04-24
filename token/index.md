@@ -78,4 +78,3 @@
 ## Source Notes
 
 Data was collected from the sources listed in the frontmatter. Figures may change rapidly, especially for newly launched or low-liquidity tokens.
-```
