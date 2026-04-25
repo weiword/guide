@@ -1,7 +1,7 @@
 # {token_name} ({token_symbol})
 [`{chain}:{token_address}`](www.google.com)
 !!!info
-Informational token profile for $token. Not financial advice. Data collected from sources listed. Figures may change rapidly.
+This token is highly speculative, extremely risky, and may have little to no real value now or ever. Nothing on this page is a promise, guarantee, or sign that the price will increase. Prices can crash, liquidity can disappear, regulations can change, smart contracts can fail, and you could lose some or all of your money. This is not financial, legal, or investment advice. Please do your own research, use common sense, never spend money you can’t afford to lose, and honestly consider the timeless strategy of simply not buying it.
 !!!
 
 ## Summary
