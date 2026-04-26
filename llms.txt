@@ -1,6 +1,6 @@
 ﻿
 - [There is no token...](https://weiword.github.io/guide/token/index.md): Please read this carefully.
-- [treasury](https://weiword.github.io/guide/wallets/index.md): Last updated: <human-readable date/time> Addresses:
+- [Portfolio](https://weiword.github.io/guide/portfolio/index.md): Last updated: <human-readable date/time> Addresses:
 
 ## Legal
 
