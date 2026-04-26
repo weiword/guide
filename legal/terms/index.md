@@ -1,15 +1,14 @@
-!!!info last updated january 23, 2025
-by using this website, you agree to review and follow the rules outlined in the [terms of use](/legal/terms/index.md) and  [privacy policy](/legal/privacy/index.md).
+!!!info Last updated january 23, 2025
+By using this website, you agree to review and follow the rules outlined in the [Terms of Use](/legal/terms/index.md) and [Privacy Policy](/legal/privacy/index.md).
 
 [!button variant="info" icon="thumbsdown" text="i do not agree"](https://pump.fun/)
 !!!
-=== i. disclaimer
-use of weiword is at your own risk. to the best of weiword's ability and belief, all information contained herein is accurate, reliable, and provided “as is.” weiword disclaims making any express or implied warranties with respect to the fitness of the information contained herein for any particular usage, its merchantability, and/or its application or purpose.
-=== ii. no offer or solicitation
-nothing on this website shall be deemed an offer or solicitation to purchase or sell services. weiword uses this website solely to discuss its opinions and investment ideas. weiword has no intention of soliciting prospective clients for any products or services. 
-=== iii. limitation of liability
-in no event shall weiword be responsible or liable for the correctness of any such material or for any damage or lost opportunities resulting from use of this data. prior to making any investment you should consult with professional financial, legal, and tax advisors to assist in due diligence as may be appropriate and determining the appropriateness of the risk associated with a particular investment.
-services. 
+=== 1. Disclaimer
+Use of weiword is at your own risk. to the best of weiword's ability and belief, all information contained herein is accurate, reliable, and provided “as is.” Weiword disclaims making any express or implied warranties with respect to the fitness of the information contained herein for any particular usage, its merchantability, and/or its application or purpose.
+=== 2. No Offer or Solicitation
+Nothing on this website shall be deemed an offer or solicitation to purchase or sell services. Weiword uses this website solely to discuss its opinions and investment ideas. Weiword has no intention of soliciting prospective clients for any products or services. 
+=== 3. Limitation of Liability
+In no event shall weiword be responsible or liable for the correctness of any such material or for any damage or lost opportunities resulting from use of this data. Prior to making any investment you should consult with professional financial, legal, and tax advisors to assist in due diligence as may be appropriate and determining the appropriateness of the risk associated with a particular investment.
 === iv. not legal or financial advice
 prior to making any investment you should consult with professional financial, legal, and tax advisors to assist in due diligence as may be appropriate and determining the appropriateness of the risk associated with a particular investment.
 === v. potential conflicts
