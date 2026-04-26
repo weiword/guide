@@ -13,12 +13,12 @@ blog:
   layout: page
   
 links:
-  - text: "X"
+  - text: ""
     link: https://twitter.com/0xWeiword
     icon: "𝕏"
     target: blank
 
-  - text: "github"
+  - text: ""
     link: https://github.com/weiword/
     icon: ":icon-mark-github:"
     target: blank
