@@ -13,14 +13,14 @@ blog:
   layout: page
   
 links:
-  - text: "bird"
+  - text: "X"
     link: https://twitter.com/0xWeiword
-    icon: ""
+    icon: "𝕏"
     target: blank
 
-  - text: "cat"
+  - text: "github"
     link: https://github.com/weiword/
-    icon: ""
+    icon: ":icon-mark-github:"
     target: blank
     
 footer:
