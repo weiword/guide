@@ -1,5 +1,5 @@
 ---
-label:  treasury
+label:  Portfolio
 icon: fiscal-host
 order: 3
 ---
