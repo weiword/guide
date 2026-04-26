@@ -1,5 +1,5 @@
 ﻿
-- [there is no token...](https://weiword.github.io/guide/token/index.md): please read this carefully
+- [There is no token...](https://weiword.github.io/guide/token/index.md): Please read this carefully.
 - [treasury](https://weiword.github.io/guide/wallets/index.md): Last updated: <human-readable date/time> Addresses:
 
 ## Legal
