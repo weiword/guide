@@ -9,8 +9,14 @@ order: 4
 please read this carefully
 !!!
 
-To be clear: there is no token associated with this project.
+to be clear, there is no token associated with this project.
 
-This project is being built for research and experimentation. A token launch is not a priority at this time. If that ever changes, it will be announced through official channels.
+this project is being built for research and experimentation. 
 
-Please be cautious of anyone claiming there is a token, presale, airdrop, mint, or investment opportunity connected to this project. Those claims are false and may be scams.
+a token launch is not a priority at this time. 
+
+if that ever changes, it will be announced through official channels.
+
+please be cautious of anyone claiming there is a token, presale, airdrop, mint, or investment opportunity connected to this project. 
+
+those claims are false and may be scams.
