@@ -12,6 +12,8 @@ However, third-party services may collect information automatically, such as you
 
 These third parties include, but are not limited to, our hosting provider, Github.
 
-Please note that these third-party services have their own privacy policies, which we encourage you to review. we are not responsible for the practices of these third parties.
+Please note that these third-party services have their own privacy policies, which we encourage you to review. 
+
+We are not responsible for the practices of these third parties.
 
 By using our website, you agree to the collection and use of information in accordance with this policy.
