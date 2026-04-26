@@ -4,7 +4,7 @@
 
 ## legal
 
-- [terms of use](https://weiword.github.io/guide/legal/terms/index.md): By using this website, you agree to review and follow the rules outlined in the Terms of Use and Privacy Policy.
+- [terms of use](https://weiword.github.io/guide/legal/terms/index.md): by using this website, you agree to review and follow the rules outlined in the terms of use and privacy policy.
 - [privacy policy](https://weiword.github.io/guide/legal/privacy/index.md): by using this website, you agree to review and follow the rules outlined in the terms of use and privacy policy.
 
 ## updates
