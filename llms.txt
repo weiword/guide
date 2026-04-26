@@ -2,7 +2,7 @@
 - [there is no token...](https://weiword.github.io/guide/token/index.md): please read this carefully
 - [treasury](https://weiword.github.io/guide/wallets/index.md): Last updated: <human-readable date/time> Addresses:
 
-## legal
+## Legal
 
 - [terms of use](https://weiword.github.io/guide/legal/terms/index.md): by using this website, you agree to review and follow the rules outlined in the terms of use and privacy policy.
 - [privacy policy](https://weiword.github.io/guide/legal/privacy/index.md): by using this website, you agree to review and follow the rules outlined in the terms of use and privacy policy.
