@@ -20,7 +20,7 @@ links:
 
   - text: ""
     link: https://github.com/weiword/
-    icon: ":icon-mark-github:"
+    icon: :icon-mark-github:
     target: blank
     
 footer:
