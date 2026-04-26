@@ -1,4 +1,4 @@
-!!!info Last updated january 23, 2025
+!!!info Last updated January 23, 2025
 By using this website, you agree to review and follow the rules outlined in the [Terms of Use](/legal/terms/index.md) and [Privacy Policy](/legal/privacy/index.md).
 
 [!button variant="info" icon="thumbsdown" text="i do not agree"](https://pump.fun/)
