@@ -1,5 +1,5 @@
 ﻿
-- [ ()](https://weiword.github.io/guide/token/index.md): {chain}:{token_address}
+- [there is no token...](https://weiword.github.io/guide/token/index.md): please read this carefully
 - [Account <wallet_address>](https://weiword.github.io/guide/wallets/index.md): Chain: Last updated: <human-readable date/time> Data currency: <display_currency>
 
 ## legal
