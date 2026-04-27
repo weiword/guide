@@ -7,7 +7,7 @@
 - [Terms of Use](https://weiword.github.io/guide/legal/terms/index.md): By using this website, you agree to review and follow the rules outlined in the Terms of Use and Privacy Policy.
 - [Privacy Policy](https://weiword.github.io/guide/legal/privacy/index.md): By using this website, you agree to review and follow the rules outlined in the Terms of Use and Privacy Policy.
 
-## updates
+## Updates
 
-- [updates](https://weiword.github.io/guide/blog/index.md)
+- [Updates](https://weiword.github.io/guide/blog/index.md)
 - [Hello World](https://weiword.github.io/guide/blog/hello-world.md): This is my first blog post built with Retype.
